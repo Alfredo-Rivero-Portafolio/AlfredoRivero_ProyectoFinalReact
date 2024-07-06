@@ -80,5 +80,8 @@ Funciones mejoradas del producto: agregar reseñas, calificaciones y recomendaci
 Optimización del rendimiento: optimización de la representación de componentes y la obtención de datos para interacciones más rápidas del usuario.
 
 # Video Proyecto:
-
 <video controls src="video de proyecto react.mp4" title="Title"></video>
+
+https://github.com/Alfredo-Rivero-Portafolio/AlfredoRivero_ProyectoFinalReact/assets/161531623/b6567e7d-ca9e-48f5-9bef-3d22df2bc112
+
+
