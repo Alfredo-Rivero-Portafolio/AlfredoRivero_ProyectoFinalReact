@@ -1,0 +1,46 @@
+.btn-count {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 1rem;
+}
+.btn-count>div {
+   display: flex;
+   align-items: center;
+   gap: 1rem;
+}
+
+.btn-count>button {
+   background-color: lightblue;
+   color: white;
+   width: 5rem;
+   height: 3rem;
+      margin: 0.5rem;
+   border-radius: 30%;
+   border: 2px solid green;
+   cursor: pointer;
+   font-size: 1rem;
+   transition: background-color 0.3s ease;
+}
+.btn-count>div>p {
+   margin: 0;
+   font-size: 1rem;
+   font-weight: bold;
+}
+
+.btn-count button:hover {
+   background-color: #93c2bf;
+   color: azure;
+}
+
+.btn-agregar {
+   background-color: #d0d5dd;
+   font-size: 0.9rem;
+   border: none;
+   padding: 0.5rem 1rem;
+   border-radius: 0.5rem;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+   margin-top: 1rem;
+}
+

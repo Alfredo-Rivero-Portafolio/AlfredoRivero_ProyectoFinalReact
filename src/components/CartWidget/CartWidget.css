@@ -1,0 +1,10 @@
+.cart-icon {
+   text-decoration: none;
+   color: inherit;
+   margin-right: 10px;
+   position: relative;
+}
+
+.cart-icon.hidden {
+   display: none;
+}
